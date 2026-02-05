@@ -1,5 +1,7 @@
 # 📋 Task Manager - System zarządzania zadaniami
 
+> 🔗 **Repozytorium:** https://github.com/LooLoo1/task-manager
+
 ## Informacje o projekcie
 
 **Przedmiot:** Tworzenie aplikacji dla środowisk chmurowych
@@ -7,7 +9,7 @@
 **Autor:**
 | Imię i Nazwisko | Numer indeksu |
 |-----------------|---------------|
-| Vitalii Petriv  | 53550         |
+| Vitaliy Petriv  | 53550         |
 
 ---
 
