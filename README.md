@@ -9,7 +9,7 @@
 **Autor:**
 | Imię i Nazwisko | Numer indeksu |
 |-----------------|---------------|
-| Vitaliy Petriv  | 53550         |
+| Vitalii Petriv  | 53550         |
 
 ---
 
